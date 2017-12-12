@@ -37,21 +37,32 @@ The datasource we are using is from the clothing company ONS. We are using a lim
 
 ## DDL
 
-Link:[]
+Link:[https://github.com/fairfield-university-is510-fall2017/final-project-3-blind-mice/blob/master/DDL.ipynb]
 
 
 ## DML
 
-Link:[]
+Link:[https://github.com/fairfield-university-is510-fall2017/final-project-3-blind-mice/blob/master/DML.ipynb]
 
 ## Retail Analysis
 
-Link:[]
+Link:[https://github.com/fairfield-university-is510-fall2017/final-project-3-blind-mice/blob/master/Retail%20Analysis.ipynb]
 
 ## Adding in more data
 
-Link:[]
+Link:[https://github.com/fairfield-university-is510-fall2017/final-project-3-blind-mice/blob/master/NewSales.csv]
 
-## Conclusion
+## Lesson Learned/ Challenges
+
+<u>*Challenges*</u>
+Spent alot of time recreating the ERD to fit most of the useable data columns
+Shopify API: Was able to get it work in PowerBI but could not connect the actual path to ons.db in python script 
+
+<u>*Lesson Learned*</u>
+
+Using sqlite to create a small compress database as a flat file that can be shared
+Converting files from excel to csv to sql_table
+be able to run sql anywhere even without a sql extension software like my sql workbench
+
 
 
