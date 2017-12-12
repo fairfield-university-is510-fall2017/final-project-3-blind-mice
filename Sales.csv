@@ -1,0 +1,383 @@
+LocationID,ItemID,Date,CustomerEmail,OrderName,SaleKind,StaffName,Discounts,NetSales,Shipping,Tax,NetQuantity
+E01,0,9/15/17,JGRUSHACK@GMAIL.COM,#ONS2669,order,,0,0,6.96,0.62,0
+E01,33728,9/15/17,JGRUSHACK@GMAIL.COM,#ONS2669,order,,-64,64,0,5.68,1
+E01,34015,9/15/17,JGRUSHACK@GMAIL.COM,#ONS2669,order,,-64,64,0,5.68,1
+E01,35924,9/19/17,byun21@gmail.com,#ONS2670,order,,-131.25,743.75,0,0,7
+E01,0,9/19/17,byun21@gmail.com,#ONS2670,order,,0,0,25.15,0,0
+E01,34020,9/19/17,streetcroci1@gmail.com,#ONS2671,order,,-64,64,0,0,1
+E01,0,9/19/17,streetcroci1@gmail.com,#ONS2671,order,,0,0,9.22,0,0
+E01,35454,9/20/17,michael@motivesny.com,#ONS2672,order,,0,438,0,38.87,1
+E01,0,9/20/17,michael@motivesny.com,#ONS2672,order,,0,0,0,0,0
+E01,35690,9/23/17,Brandon.L.Cohn@gmail.com,#ONS2673,order,,0,88,0,7.81,1
+E01,0,9/23/17,Brandon.L.Cohn@gmail.com,#ONS2673,order,,0,0,0,0,0
+E01,35545,9/23/17,Brandon.L.Cohn@gmail.com,#ONS2673,order,,0,128,0,11.36,1
+E01,33476,9/25/17,seymour.cameron7@gmail.com,#ONS2674,order,,0,24,0,0,1
+E01,33471,9/25/17,seymour.cameron7@gmail.com,#ONS2674,order,,0,24,0,0,1
+E01,0,9/25/17,seymour.cameron7@gmail.com,#ONS2674,order,,0,0,9.22,0,0
+E01,0,9/26/17,mtodisco10@gmail.com,#ONS2676,order,,0,0,6.96,0.62,0
+E01,0,9/26/17,kurtwesleybrown@gmail.com,#ONS2675,order,,0,0,28.89,0,0
+E01,35084,9/26/17,kurtwesleybrown@gmail.com,#ONS2675,order,,-14.7,83.3,0,0,1
+E01,35091,9/26/17,kurtwesleybrown@gmail.com,#ONS2675,order,,-14.7,83.3,0,0,1
+E01,34558,9/26/17,mtodisco10@gmail.com,#ONS2676,order,,0,84,0,7.46,1
+E01,34013,9/26/17,mtodisco10@gmail.com,#ONS2676,order,,0,64,0,5.67,1
+E01,0,10/1/17,brian.chung1013@gmail.com,#ONS2677,order,,0,0,0,0,0
+E01,34462,10/1/17,brian.chung1013@gmail.com,#ONS2677,order,,0,94,0,0,1
+E01,35191,10/1/17,brian.chung1013@gmail.com,#ONS2677,order,,0,128,0,0,1
+E01,35541,10/8/17,robert.h.pritchard@gmail.com,#ONS2678,order,,0,128,0,11.36,1
+E01,0,10/8/17,robert.h.pritchard@gmail.com,#ONS2678,order,,0,0,6.41,0.57,0
+E01,0,10/10/17,michael@motivesny.com,#ONS2679,order,,0,0,0,0,0
+E01,35454,10/10/17,michael@motivesny.com,#ONS2679,order,,0,438,0,38.87,1
+E01,35084,10/11/17,kurtwesleybrown@gmail.com,#ONS2675,return,,0,-83.3,0,0,-1
+E01,35278,10/11/17,marianocrivello@yahoo.com,#ONS2681,order,,-44.7,253.3,0,22.48,1
+E01,35091,10/11/17,kurtwesleybrown@gmail.com,#ONS2675,return,,0,-83.3,0,0,-1
+E01,0,10/11/17,kurtwesleybrown@gmail.com,#ONS2675,return,,0,0,-28.89,0,0
+R01,0,10/11/17,,#ONS2-1001,order,71 Greene Managers,0,0,0,0,1
+E01,0,10/11/17,marianocrivello@yahoo.com,#ONS2681,order,,0,0,0,0,0
+R01,0,10/12/17,,#ONS2-1001,return,71 Greene Managers,0,0,0,0,-1
+E01,0,10/13/17,justin.conner.green@gmail.com,#ONS2682,order,,0,0,6.33,0.56,0
+E01,33671,10/13/17,justin.conner.green@gmail.com,#ONS2682,order,,-5.85,33.15,0,2.94,1
+E01,33672,10/15/17,gregrrday@gmail.com,#ONS2683,order,,0,39,0,0,1
+E01,33727,10/15/17,gregrrday@gmail.com,#ONS2683,order,,0,64,0,0,1
+E01,0,10/15/17,gregrrday@gmail.com,#ONS2683,order,,0,0,0,0,0
+E01,34462,10/15/17,gregrrday@gmail.com,#ONS2683,order,,0,94,0,0,1
+E01,0,10/16/17,adamraymaker@gmail.com,#ONS2684,order,,0,0,14.45,0,0
+E01,35183,10/16/17,adamraymaker@gmail.com,#ONS2684,order,,0,128,0,0,1
+E01,0,10/16/17,jhalpert2@wisc.edu,#ONS2685,order,,0,0,9.22,0,0
+E01,34463,10/16/17,jhalpert2@wisc.edu,#ONS2685,order,,0,94,0,0,1
+R01,35496,10/18/17,jlu@onsclothing.com,#ONS3-1002,order,71 Greene Managers,0,128,0,11.36,1
+R01,0,10/18/17,,#ONS3-1004,order,71 Greene Managers,0,0.5,0,0.04,1
+R01,35496,10/18/17,jlu@onsclothing.com,#ONS3-1002,return,71 Greene Managers,0,-128,0,-11.36,-1
+R01,0,10/18/17,,#ONS3-1001,order,71 Greene Managers,0,0,0,0,1
+R01,34010,10/18/17,,#ONS3-1003,order,71 Greene Managers,0,64,0,5.68,1
+R01,34010,10/18/17,,#ONS3-1003,return,71 Greene Managers,0,-64,0,-5.68,-1
+R01,0,10/19/17,jlu@onsclothing.com,#ONS3-1005,order,71 Greene Managers,0,0,0,0,0
+R01,0,10/19/17,,#ONS3-1001,return,71 Greene Managers,0,0,0,0,-1
+E01,35609,10/19/17,helefter@gmail.com,#ONS2691,order,,0,58,0,5.15,1
+R01,35154,10/19/17,jlu@onsclothing.com,#ONS3-1005,order,71 Greene Managers,-98,0,0,0,1
+E01,35544,10/19/17,helefter@gmail.com,#ONS2691,order,,0,128,0,11.36,1
+E01,0,10/19/17,helefter@gmail.com,#ONS2691,order,,0,0,0,0,0
+R01,34558,10/24/17,iflanagan@onsclothing.com,#ONS3-1006,return,71 Greene Managers,0,-42,0,-3.73,-1
+R01,MTP9329,10/24/17,,#ONS2697,order,Shirley Cheng,0,1,0,0.09,1
+R01,0,10/24/17,iflanagan@onsclothing.com,#ONS3-1007,order,71 Greene Managers,0,59.98,0,5.32,2
+R01,34010,10/24/17,,#ONS3-1010,order,Jonathan Wong,0,64,0,5.68,1
+R01,0,10/24/17,iflanagan@onsclothing.com,#ONS3-1007,return,71 Greene Managers,0,-48.41,0,-5.32,-2
+R01,MTP9329,10/24/17,iflanagan@onsclothing.com,#ONS2696,return,Shirley Cheng,0,-1,0,0,-1
+R01,34010,10/24/17,,#ONS3-1010,return,Jonathan Wong,0,-64,0,-5.68,-1
+R01,35154,10/24/17,jlu@onsclothing.com,#ONS3-1005,return,71 Greene Managers,0,0,0,0,-1
+R01,MTP9329,10/24/17,,#ONS3-1010,return,Jonathan Wong,0,-1,0,-0.09,-1
+R01,0,10/24/17,nchacin@onsclothing.com,#ONS3-1012,order,Jon Lu,0,29.99,0,2.66,1
+R01,34558,10/24/17,iflanagan@onsclothing.com,#ONS3-1006,order,71 Greene Managers,-42,42,0,3.73,1
+R01,MTP9329,10/24/17,iflanagan@onsclothing.com,#ONS3-1006,return,71 Greene Managers,0,-0.5,0,-0.04,-1
+R01,0,10/24/17,,#ONS3-1011,return,Jonathan Wong,0,-29.99,0,-2.66,-1
+R01,0,10/24/17,,#ONS3-1011,order,Jonathan Wong,0,29.99,0,2.66,1
+R01,MTP9329,10/24/17,,#ONS3-1010,order,Jonathan Wong,0,1,0,0.09,1
+R01,MTP9329,10/24/17,iflanagan@onsclothing.com,#ONS3-1006,order,71 Greene Managers,-0.5,0.5,0,0.04,1
+R01,MTP9329,10/24/17,,#ONS2697,return,Shirley Cheng,0,-1,0,-0.09,-1
+R01,0,10/24/17,iflanagan@onsclothing.com,#ONS3-1008,order,71 Greene Managers,0,29.99,0,2.66,1
+R01,0,10/24/17,iflanagan@onsclothing.com,#ONS3-1008,return,71 Greene Managers,0,-29.99,0,-2.66,-1
+R01,0,10/24/17,iflanagan@onsclothing.com,#ONS3-1009,order,Shirley Cheng,0,29.99,0,2.66,1
+R01,0,10/24/17,iflanagan@onsclothing.com,#ONS3-1009,return,Shirley Cheng,0,-29.99,0,-2.66,-1
+R01,MTP9329,10/24/17,iflanagan@onsclothing.com,#ONS2696,order,Shirley Cheng,0,1,0,0,1
+R01,0,10/25/17,jlu@onsclothing.com,#ONS3-1013,return,Jon Lu,0,-29.99,0,-2.66,-1
+R01,0,10/25/17,jlu@onsclothing.com,#ONS3-1013,order,Jon Lu,0,29.99,0,2.66,1
+R01,0,10/26/17,us20161201017090@onsclothing.com,#ONS3-1016,order,Shirley Cheng,-29.99,0,0,0,1
+R01,0,10/26/17,us20161201017090@onsclothing.com,#ONS3-1015,order,Shirley Cheng,-29.99,0,0,0,1
+R01,0,10/26/17,testmail@mailme.com,#ONS3-1014,order,Shirley Cheng,-29.99,0,0,0,1
+E01,34473,10/31/17,nmulder@gmail.com,#ONS2705,order,,0,94,0,0,1
+E01,35621,10/31/17,nmulder@gmail.com,#ONS2705,order,,0,58,0,0,1
+E01,0,10/31/17,nmulder@gmail.com,#ONS2705,order,,0,0,36.59,0,0
+E01,35586,10/31/17,nmulder@gmail.com,#ONS2705,order,,0,116,0,0,2
+E01,35601,10/31/17,nmulder@gmail.com,#ONS2705,order,,0,58,0,0,1
+E01,35541,11/2/17,josejpadilla3@gmail.com,#ONS2706,order,,-19.2,108.8,0,0,1
+E01,35096,11/2/17,josejpadilla3@gmail.com,#ONS2706,order,,-14.7,83.3,0,0,1
+E01,35497,11/2/17,josejpadilla3@gmail.com,#ONS2706,order,,-19.2,108.8,0,0,1
+E01,35082,11/2/17,josejpadilla3@gmail.com,#ONS2706,order,,-14.7,83.3,0,0,1
+E01,35372,11/2/17,josejpadilla3@gmail.com,#ONS2706,order,,-35.7,202.3,0,0,1
+E01,35277,11/2/17,josejpadilla3@gmail.com,#ONS2706,order,,-44.7,253.3,0,0,1
+E01,0,11/2/17,josejpadilla3@gmail.com,#ONS2706,order,,0,0,0,0,0
+E01,35729,11/3/17,colin.pcj@gmail.com,#ONS2707,order,,-19.2,108.8,0,0,1
+E01,0,11/3/17,colin.pcj@gmail.com,#ONS2707,order,,0,0,7.16,0,0
+E01,34309,11/4/17,ruben_heiming@hotmail.de,#ONS2708,order,,0,74,0,0,1
+E01,0,11/4/17,ruben_heiming@hotmail.de,#ONS2708,order,,0,0,0,0,0
+R01,35716,11/6/17,,#ONS2-1002,order,Shirley Cheng,-128,0,0,0,1
+E01,0,11/6/17,davidgraham73@gmail.com,#ONS2710,order,,0,0,0,0,0
+E01,35664,11/6/17,davidgraham73@gmail.com,#ONS2710,order,,0,88,0,0,1
+E01,35103,11/6/17,davidgraham73@gmail.com,#ONS2710,order,,0,98,0,0,1
+E01,35089,11/6/17,davidgraham73@gmail.com,#ONS2710,order,,0,98,0,0,1
+E01,35714,11/6/17,davidgraham73@gmail.com,#ONS2710,order,,0,128,0,0,1
+E01,35528,11/6/17,davidgraham73@gmail.com,#ONS2710,order,,0,128,0,0,1
+E01,34461,11/7/17,yanglistanford@gmail.com,#ONS2715,order,,0,94,0,0,1
+R01,35069,11/7/17,,#ONS2-1009,order,Joel Cano,-40.2,227.8,0,20.22,1
+R01,35699,11/7/17,,#ONS2-1009,order,Joel Cano,-13.2,74.8,0,0,1
+E01,33471,11/7/17,yanglistanford@gmail.com,#ONS2715,order,,0,24,0,0,1
+R01,0,11/7/17,iflanagan@onsclothing.com,#ONS2-1004,return,Shirley Cheng,0,-1,0,-0.09,-1
+R01,35488,11/7/17,,#ONS2-1008,order,Prince Adams,-19.2,108.8,0,9.66,1
+E01,33456,11/7/17,yanglistanford@gmail.com,#ONS2715,order,,0,24,0,0,1
+E01,33451,11/7/17,yanglistanford@gmail.com,#ONS2715,order,,0,24,0,0,1
+E01,0,11/7/17,yanglistanford@gmail.com,#ONS2715,order,,0,0,0,0,0
+R01,0,11/7/17,iflanagan@onsclothing.com,#ONS2-1003,return,Shirley Cheng,0,-0.5,0,-0.04,-1
+R01,0,11/7/17,iflanagan@onsclothing.com,#ONS2-1003,order,Shirley Cheng,0,0.5,0,0.04,1
+R01,0,11/7/17,iflanagan@onsclothing.com,#ONS2-1004,order,Shirley Cheng,0,1,0,0.09,1
+R01,34989,11/7/17,,#ONS2-1008,order,Prince Adams,-29.7,168.3,0,14.93,1
+R01,34946,11/8/17,,#ONS2-1016,order,Joel Cano,0,116,0,0,2
+R01,33132,11/8/17,,#ONS2-1017,order,Steven Davis,0,128,0,11.36,1
+R01,34971,11/8/17,,#ONS2-1016,order,Joel Cano,0,198,0,17.57,1
+R01,33441,11/8/17,,#ONS2-1016,order,Joel Cano,0,22,0,0,1
+R01,33440,11/8/17,,#ONS2-1016,order,Joel Cano,0,22,0,0,1
+R01,35234,11/8/17,,#ONS2-1015,order,Joel Cano,0,138,0,12.25,1
+R01,35442,11/8/17,,#ONS2-1015,order,Joel Cano,0,438,0,38.87,1
+R01,33132,11/8/17,,#ONS2-1013,order,Steven Davis,0,128,0,11.36,1
+R01,35925,11/8/17,,#ONS2-1011,order,Joel Cano,0,125,0,11.09,1
+R01,35494,11/8/17,,#ONS2-1012,order,Quentin Wynaar,0,128,0,11.36,1
+R01,35517,11/8/17,,#ONS2-1014,order,Steven Davis,0,148,0,13.13,1
+R01,35184,11/8/17,,#ONS2-1018,order,Joel Cano,0,128,0,11.36,1
+R01,34945,11/8/17,,#ONS2-1016,order,Joel Cano,0,174,0,0,3
+R01,0,11/8/17,,#ONS2-1014,order,Steven Davis,0,100,0,8.88,1
+R01,35135,11/9/17,srvhandow@gmail.com,#ONS2-1020,order,Joel Cano,0,98,0,0,1
+R01,35134,11/9/17,us20161201011409@onsclothing.com,#ONS2-1022,order,Jackson Dillon,0,98,0,0,1
+E01,35244,11/9/17,jonesmit3h4433@gmail.com,#ONS2724,order,,0,138,0,0,1
+R01,34989,11/9/17,davealines@gmail.com,#ONS2-1023,order,Jackson Dillon,0,198,0,17.57,1
+R01,32568,11/9/17,,#ONS2-1021,order,Prince Adams,0,58,0,0,1
+E01,0,11/9/17,jonesmit3h4433@gmail.com,#ONS2724,order,,0,0,20,0,0
+R01,35152,11/9/17,davealines@gmail.com,#ONS2-1023,order,Jackson Dillon,0,98,0,0,1
+R01,35828,11/9/17,,#ONS2-1025,order,Jonathan Wong,0,15,0,0,1
+R01,35153,11/9/17,,#ONS2-1019,order,Steven Davis,0,98,0,0,1
+R01,35844,11/9/17,,#ONS2-1024,order,Jonathan Wong,0,12,0,0,1
+R01,32576,11/9/17,srvhandow@gmail.com,#ONS2-1020,order,Joel Cano,0,98,0,0,1
+R01,34987,11/10/17,jamie@uesconsulting.com,#ONS2-1028,order,Jackson Dillon,0,198,0,17.57,1
+E01,35374,11/10/17,steven.f.liu@gmail.com,#ONS2741,order,,-35.7,202.3,0,0,1
+R01,35218,11/10/17,,#ONS2-1034,order,Joel Cano,0,138,0,12.25,1
+E01,0,11/10/17,steven.f.liu@gmail.com,#ONS2741,order,,0,0,0,0,0
+R01,35986,11/10/17,jen.marin10@gmail.com,#ONS2-1029,order,Jackson Dillon,0,135,0,11.98,1
+R01,35525,11/10/17,jen.marin10@gmail.com,#ONS2-1029,order,Jackson Dillon,0,128,0,11.36,1
+R01,35098,11/10/17,chris.davies@bbc.com,#ONS2-1026,order,Jackson Dillon,0,98,0,0,1
+R01,36008,11/10/17,g_lagerstorm@yahoo.com,#ONS2-1032,order,Jackson Dillon,0,120,0,10.65,1
+R01,35134,11/10/17,us20161201011409@onsclothing.com,#ONS2-1022,return,Jackson Dillon,0,-98,0,0,-1
+R01,35481,11/10/17,srjwebster@gmail.com,#ONS2-1033,order,Jackson Dillon,0,128,0,11.36,1
+R01,35035,11/10/17,jen.marin10@gmail.com,#ONS2-1029,order,Jackson Dillon,0,238,0,21.12,1
+R01,33816,11/10/17,,#ONS2-1027,order,Joel Cano,0,18,0,0,1
+R01,35717,11/10/17,peter.langron@gmail.com,#ONS2-1031,order,Jackson Dillon,0,128,0,11.36,1
+R01,35149,11/10/17,us20161201011409@onsclothing.com,#ONS2-1035,order,Jackson Dillon,0,98,0,0,1
+R01,35630,11/10/17,jen.marin10@gmail.com,#ONS2-1029,order,Jackson Dillon,0,98,0,0,1
+R01,35152,11/10/17,,#ONS2-1034,order,Joel Cano,0,98,0,0,1
+R01,35489,11/10/17,,#ONS2-1030,order,Steven Davis,0,128,0,11.36,1
+R01,35497,11/10/17,,#ONS2-1034,order,Joel Cano,0,128,0,11.36,1
+R01,35461,11/10/17,,#ONS2-1034,order,Joel Cano,0,128,0,11.36,1
+R01,35585,11/10/17,,#ONS2-1034,order,Joel Cano,0,58,0,0,1
+R01,33825,11/10/17,g_lagerstorm@yahoo.com,#ONS2-1032,order,Jackson Dillon,0,5,0,0,1
+R01,35415,11/11/17,,#ONS2-1055,order,Prince Adams,0,368,0,32.66,1
+R01,35491,11/11/17,,#ONS2-1036,order,Joel Cano,0,128,0,11.36,1
+R01,35012,11/11/17,,#ONS2-1055,order,Prince Adams,0,198,0,17.57,1
+R01,0,11/11/17,,#ONS2-1051,order,Joel Cano,-4.2,23.8,0,2.12,2
+R01,35973,11/11/17,,#ONS2-1051,order,Joel Cano,-2.1,11.9,0,1.06,1
+R01,35716,11/11/17,rmcblackwell@gmail.com,#ONS2-1058,order,Jackson Dillon,-25.6,102.4,0,9.09,1
+R01,35154,11/11/17,,#ONS2-1051,order,Joel Cano,-29.4,166.6,0,14.78,2
+R01,35562,11/11/17,dan.drufovka@gmail.com,#ONS2-1046,order,Jonathan Wong,-15,113,0,10.03,1
+R01,35024,11/11/17,,#ONS2-1068,order,Jackson Dillon,-47.6,190.4,0,16.89,1
+R01,35438,11/11/17,rkb329@nyu.edu,#ONS2-1052,order,Jonathan Wong,-65.7,372.3,0,33.04,1
+R01,35412,11/11/17,,#ONS2-1056,order,Jonathan Wong,-110.4,257.6,0,22.87,1
+R01,35798,11/11/17,nicloe.h27@gmail.com,#ONS2-1044,order,Prince Adams,0,128,0,11.36,1
+R01,35528,11/11/17,,#ONS2-1068,order,Jackson Dillon,-25.6,102.4,0,9.09,1
+R01,0,11/11/17,theholleys@mac.com,#ONS2-1054,order,Jackson Dillon,0,0,0,0,0
+R01,35408,11/11/17,,#ONS2-1071,order,Joel Cano,-52.2,295.8,0,26.25,1
+R01,35885,11/11/17,,#ONS2-1075,order,Jackson Dillon,-25.6,102.4,0,9.09,1
+R01,35490,11/11/17,,#ONS2-1057,order,Jackson Dillon,0,128,0,11.36,1
+R01,35529,11/11/17,nicloe.h27@gmail.com,#ONS2-1044,order,Prince Adams,0,128,0,11.36,1
+R01,35365,11/11/17,,#ONS2-1041,order,Prince Adams,-35.7,202.3,0,17.95,1
+R01,35105,11/11/17,,#ONS2-1048,order,Prince Adams,0,98,0,0,1
+R01,35746,11/11/17,rmcblackwell@gmail.com,#ONS2-1058,order,Jackson Dillon,-25.6,102.4,0,9.08,1
+R01,35566,11/11/17,,#ONS2-1050,order,Joel Cano,0,128,0,11.36,1
+R01,34990,11/11/17,jmaxfieldgrant@gmail.com,#ONS2-1039,order,Jackson Dillon,0,198,0,17.58,1
+R01,35378,11/11/17,theholleys@mac.com,#ONS2-1054,order,Jackson Dillon,0,298,0,26.45,1
+R01,35154,11/11/17,,#ONS2-1051,return,Joel Cano,0,-83.3,0,-7.39,-1
+R01,35380,11/11/17,,#ONS2-1041,order,Prince Adams,-44.7,253.3,0,22.48,1
+R01,34972,11/11/17,,#ONS2-1041,order,Prince Adams,-29.7,168.3,0,14.93,1
+R01,35966,11/11/17,,#ONS2-1051,order,Joel Cano,-3.9,22.1,0,1.96,1
+R01,35689,11/11/17,masonjhoffman@gmail.com,#ONS2-1040,order,Jackson Dillon,0,88,0,0,1
+R01,35680,11/11/17,jmaxfieldgrant@gmail.com,#ONS2-1039,order,Jackson Dillon,0,98,0,0,1
+R01,32569,11/11/17,,#ONS2-1077,order,Quentin Wynaar,-8.7,49.3,0,4.37,1
+R01,35365,11/11/17,richard@davis-keil.com,#ONS2-1038,order,Prince Adams,0,238,0,21.12,1
+R01,35438,11/11/17,,#ONS2-1050,return,Joel Cano,0,-438,0,-38.87,-1
+R01,35666,11/11/17,rmcblackwell@gmail.com,#ONS2-1058,order,Jackson Dillon,-17.6,70.4,0,0,1
+R01,0,11/11/17,,#ONS2-1055,order,Prince Adams,0,98,0,8.7,1
+R01,35712,11/11/17,screnovations@msn.com,#ONS2-1037,order,Jackson Dillon,0,128,0,11.36,1
+R01,35885,11/11/17,,#ONS2-1056,order,Jonathan Wong,-38.4,89.6,0,7.95,1
+R01,35661,11/11/17,rmcblackwell@gmail.com,#ONS2-1058,order,Jackson Dillon,-17.6,70.4,0,0,1
+R01,35886,11/11/17,,#ONS2-1045,order,Joel Cano,0,128,0,11.36,1
+R01,35499,11/11/17,,#ONS2-1051,order,Joel Cano,-19.2,108.8,0,9.65,1
+R01,34982,11/11/17,,#ONS2-1041,order,Prince Adams,-29.7,168.3,0,14.95,1
+R01,35717,11/11/17,,#ONS2-1041,order,Prince Adams,-19.2,108.8,0,9.65,1
+R01,35702,11/11/17,,#ONS2-1051,order,Joel Cano,-13.2,74.8,0,6.64,1
+R01,35494,11/11/17,,#ONS2-1041,order,Prince Adams,-19.2,108.8,0,9.65,1
+R01,34975,11/11/17,jmaxfieldgrant@gmail.com,#ONS2-1039,order,Jackson Dillon,0,198,0,17.57,1
+R01,35712,11/11/17,,#ONS2-1059,order,Joel Cano,0,128,0,11.36,1
+R01,35302,11/11/17,masonjhoffman@gmail.com,#ONS2-1040,order,Jackson Dillon,0,328,0,29.11,1
+R01,35493,11/11/17,,#ONS2-1074,order,Quentin Wynaar,0,128,0,11.36,1
+R01,35711,11/11/17,rmcblackwell@gmail.com,#ONS2-1058,order,Jackson Dillon,-25.6,102.4,0,9.09,1
+R01,32568,11/11/17,,#ONS2-1077,order,Quentin Wynaar,-8.7,49.3,0,4.38,1
+R01,34925,11/11/17,wells.jake@gmail.com,#ONS2-1042,order,Jackson Dillon,0,40,0,0,1
+R01,35438,11/11/17,,#ONS2-1050,order,Joel Cano,0,438,0,38.87,1
+R01,35024,11/11/17,jmaxfieldgrant@gmail.com,#ONS2-1039,order,Jackson Dillon,0,238,0,21.12,1
+R01,35566,11/11/17,,#ONS2-1050,return,Joel Cano,0,-128,0,-11.36,-1
+R01,32578,11/11/17,rmcblackwell@gmail.com,#ONS2-1058,order,Jackson Dillon,-19.6,78.4,0,0,1
+R01,35111,11/11/17,,#ONS2-1053,order,Joel Cano,-14.7,83.3,0,0,1
+R01,35519,11/11/17,,#ONS2-1055,order,Prince Adams,0,148,0,13.14,1
+R01,35888,11/11/17,,#ONS2-1049,order,Joel Cano,0,128,0,11.36,1
+R01,36032,11/11/17,theholleys@mac.com,#ONS2-1054,order,Jackson Dillon,0,60,0,0,1
+R01,35477,11/11/17,rmcblackwell@gmail.com,#ONS2-1058,order,Jackson Dillon,-25.6,102.4,0,9.09,1
+R01,35443,11/11/17,rkb329@nyu.edu,#ONS2-1052,order,Jonathan Wong,-65.7,372.3,0,33.04,1
+R01,35492,11/11/17,christianamato1@gmail.com,#ONS2-1043,order,Jackson Dillon,0,128,0,11.36,1
+R01,35223,11/11/17,,#ONS2-1051,order,Joel Cano,-20.7,117.3,0,10.41,1
+R01,35025,11/11/17,,#ONS2-1041,order,Prince Adams,-35.7,202.3,0,17.96,1
+R01,35600,11/12/17,,#ONS2-1082,order,Joel Cano,0,58,0,0,1
+E01,35468,11/12/17,jes@thechanler.com,#ONS2790,order,,0,128,0,0,1
+R01,35378,11/12/17,,#ONS2-1095,order,Jackson Dillon,0,298,0,26.45,1
+E01,35115,11/12/17,jwitzleben@sva.edu,#ONS2789,order,,-14.7,83.3,0,0,1
+R01,35408,11/12/17,,#ONS2-1095,order,Jackson Dillon,0,348,0,30.88,1
+R01,35222,11/12/17,ggergsirrom7@gmail.com,#ONS2-1096,order,Jackson Dillon,0,138,0,12.25,1
+R01,35599,11/12/17,,#ONS2-1093,order,Jackson Dillon,0,58,0,0,1
+R01,34961,11/12/17,marsharay@bell.net,#ONS2-1085,order,Jackson Dillon,0,94,0,0,1
+R01,35926,11/12/17,,#ONS2-1091,order,Joel Cano,0,115,0,10.21,1
+R01,35954,11/12/17,marsharay@bell.net,#ONS2-1085,order,Jackson Dillon,0,50,0,0,1
+R01,35705,11/12/17,,#ONS2-1090,order,Joel Cano,0,88,0,0,1
+R01,32562,11/12/17,helefter@gmai.com,#ONS2-1087,order,Jackson Dillon,-8.7,49.3,0,0,1
+R01,33062,11/12/17,,#ONS2-1090,order,Joel Cano,0,148,0,13.14,1
+R01,35566,11/12/17,,#ONS2-1083,order,Jackson Dillon,0,128,0,11.36,1
+R01,35690,11/12/17,d_barkeo83@hotmail.com,#ONS2-1081,order,Jackson Dillon,0,88,0,0,1
+R01,35513,11/12/17,,#ONS2-1082,order,Joel Cano,0,128,0,11.36,1
+R01,35526,11/12/17,,#ONS2-1084,order,Jackson Dillon,0,128,0,11.36,1
+R01,35493,11/12/17,,#ONS2-1090,order,Joel Cano,0,128,0,11.36,1
+R01,35952,11/12/17,marsharay@bell.net,#ONS2-1085,order,Jackson Dillon,0,50,0,0,1
+R01,0,11/12/17,,#ONS2-1078,return,Jonathan Wong,0,-0.5,0,-0.04,-1
+E01,0,11/12/17,jes@thechanler.com,#ONS2790,order,,0,0,0,0,0
+R01,35610,11/12/17,helefter@gmai.com,#ONS2-1087,order,Jackson Dillon,-8.7,49.3,0,0,1
+E01,0,11/12/17,jwitzleben@sva.edu,#ONS2789,order,,0,0,0,0,0
+R01,35083,11/12/17,,#ONS2-1089,order,Joel Cano,-14.7,83.3,0,0,1
+R01,35630,11/12/17,,#ONS2-1089,order,Joel Cano,-14.7,83.3,0,0,1
+R01,36061,11/12/17,leet3231@gmail.com,#ONS2-1088,order,Jackson Dillon,0,90,0,0,1
+R01,35518,11/12/17,,#ONS2-1084,order,Jackson Dillon,0,148,0,13.14,1
+E01,35689,11/12/17,jes@thechanler.com,#ONS2790,order,,0,88,0,0,1
+R01,35086,11/12/17,,#ONS2-1083,order,Jackson Dillon,0,98,0,0,1
+R01,34935,11/12/17,jerardl@lemosandcrane.co.uk,#ONS2-1094,order,Jackson Dillon,0,90,0,0,1
+R01,0,11/12/17,,#ONS2-1078,order,Jonathan Wong,0,0.5,0,0.04,1
+R01,34980,11/12/17,d_barkeo83@hotmail.com,#ONS2-1081,order,Jackson Dillon,0,198,0,17.57,1
+R01,36064,11/12/17,kg@wallse.com,#ONS2-1086,order,Jackson Dillon,0,90,0,0,1
+R01,35186,11/12/17,gregoryjwhyte@aol.com,#ONS2-1092,order,Jackson Dillon,0,128,0,11.36,1
+R01,35881,11/12/17,poupeau03@mac.com,#ONS2-1080,order,Jonathan Wong,0,128,0,11.36,1
+R01,35090,11/12/17,,#ONS2-1089,order,Joel Cano,-14.7,83.3,0,0,1
+R01,35689,11/13/17,chuffed2bits@hotmail.com,#ONS2-1107,order,Steven Davis,0,88,0,0,1
+R01,35378,11/13/17,jasguy1@yahoo.com,#ONS2-1100,order,Quentin Wynaar,0,298,0,26.45,1
+R01,35715,11/13/17,jcbald10@gmail.com,#ONS2-1108,order,Steven Davis,-66.99,61.01,0,5.4,1
+R01,34961,11/13/17,marsharay@bell.net,#ONS2-1085,return,Jackson Dillon,0,-94,0,0,-1
+R01,32567,11/13/17,jcbald10@gmail.com,#ONS2-1108,order,Steven Davis,-30.36,27.64,0,2.46,1
+R01,35924,11/13/17,marsharay@bell.net,#ONS2-1097,order,Steven Davis,0,125,0,11.09,1
+R01,35620,11/13/17,jcbald10@gmail.com,#ONS2-1108,order,Steven Davis,-30.36,27.64,0,2.46,1
+R01,0,11/13/17,marsharay@bell.net,#ONS2-1097,return,Steven Davis,0,0,0,0,0
+R01,35407,11/13/17,,#ONS2-1105,order,Steven Davis,0,348,0,30.89,1
+E01,0,11/13/17,helefter@gmail.com,#ONS2691,return,,0,0.01,0,0,0
+R01,35152,11/13/17,jamesli814@gmail.com,#ONS2-1106,order,Jonathan Wong,-14.7,83.3,0,7.39,1
+R01,35706,11/13/17,,#ONS2-1102,order,Steven Davis,0,88,0,0,1
+R01,35924,11/13/17,marsharay@bell.net,#ONS2-1098,order,Steven Davis,0,125,0,11.09,1
+R01,35924,11/13/17,marsharay@bell.net,#ONS2-1097,return,Steven Davis,0,-125,0,-11.09,-1
+R01,35493,11/13/17,kanhast@gmail.com,#ONS2-1104,order,Steven Davis,0,128,0,11.36,1
+E01,35115,11/13/17,jwitzleben@sva.edu,#ONS2789,return,,0,-83.3,0,0,-1
+R01,35528,11/13/17,,#ONS2-1101,order,Quentin Wynaar,-38.4,89.6,0,7.95,1
+R01,35118,11/13/17,,#ONS2-1101,order,Quentin Wynaar,-29.4,68.6,0,0,1
+R01,35516,11/13/17,,#ONS2-1101,order,Quentin Wynaar,-44.4,103.6,0,9.2,1
+R01,35363,11/13/17,,#ONS2-1103,order,Steven Davis,0,238,0,21.12,1
+R01,32568,11/13/17,aanders7@binghamton.edu,#ONS2-1099,order,Quentin Wynaar,0,58,0,0,1
+E01,35609,11/13/17,helefter@gmail.com,#ONS2691,return,,0,-58,0,-5.15,-1
+R01,34985,11/14/17,mcgilljh23@gmail.com,#ONS2-1112,order,Prince Adams,0,198,0,17.57,1
+R01,35667,11/14/17,,#ONS2-1115,order,Prince Adams,0,88,0,0,1
+R01,35494,11/14/17,,#ONS2-1109,order,Quentin Wynaar,0,128,0,11.36,1
+R01,35530,11/14/17,o.lazraq@hotmail.fr,#ONS2-1110,order,Quentin Wynaar,0,128,0,11.36,1
+R01,35279,11/14/17,,#ONS2-1109,order,Quentin Wynaar,0,298,0,26.45,1
+R01,35518,11/14/17,o.lazraq@hotmail.fr,#ONS2-1110,order,Quentin Wynaar,0,148,0,13.14,1
+E01,0,11/14/17,joe@johnystarr.com,#ONS2803,order,,0,0,0,0,0
+R01,0,11/14/17,o.lazraq@hotmail.fr,#ONS2-1110,order,Quentin Wynaar,0,14,0,1.24,1
+E01,36051,11/14/17,joe@johnystarr.com,#ONS2803,order,,-131.25,743.75,0,0,1
+R01,35800,11/14/17,,#ONS2-1115,order,Prince Adams,0,128,0,11.36,1
+R01,32561,11/14/17,cohenwyatt@gmail.com,#ONS2-1113,order,Prince Adams,-8.7,49.3,0,0,1
+R01,35135,11/14/17,,#ONS2-1114,order,Prince Adams,0,98,0,0,1
+R01,32566,11/14/17,mcgilljh23@gmail.com,#ONS2-1112,order,Prince Adams,0,58,0,0,1
+R01,35514,11/14/17,o.lazraq@hotmail.fr,#ONS2-1110,order,Quentin Wynaar,0,128,0,11.36,1
+R01,35741,11/14/17,o.lazraq@hotmail.fr,#ONS2-1110,order,Quentin Wynaar,0,128,0,11.36,1
+R01,35567,11/14/17,,#ONS2-1115,order,Prince Adams,0,128,0,11.36,1
+R01,36094,11/14/17,o.lazraq@hotmail.fr,#ONS2-1110,order,Quentin Wynaar,0,14,0,0,1
+R01,35952,11/14/17,,#ONS2-1116,order,Prince Adams,0,50,0,0,1
+R01,35970,11/14/17,o.lazraq@hotmail.fr,#ONS2-1110,order,Quentin Wynaar,0,14,0,0,1
+R01,35181,11/14/17,noahpica@gmail.com,#ONS2-1111,order,Quentin Wynaar,0,128,0,11.36,1
+R01,35742,11/14/17,,#ONS2-1115,order,Prince Adams,0,128,0,11.36,1
+E01,0,11/14/17,nmulder@gmail.com,#ONS2705,return,,0,0,-36.59,0,0
+R01,32566,11/14/17,cohenwyatt@gmail.com,#ONS2-1113,order,Prince Adams,-8.7,49.3,0,0,1
+R01,35481,11/14/17,mcgilljh23@gmail.com,#ONS2-1112,order,Prince Adams,0,128,0,11.36,1
+R01,32566,11/15/17,kmark@ivey.ca,#ONS2-1117,order,Steven Davis,0,58,0,0,1
+R01,35710,11/15/17,,#ONS2-1120,order,Steven Davis,-38.4,89.6,0,7.95,1
+R01,35564,11/15/17,,#ONS2-1120,order,Steven Davis,-38.4,89.6,0,7.95,1
+R01,35118,11/15/17,,#ONS2-1101,return,Quentin Wynaar,0,-68.6,0,0,-1
+R01,35704,11/15/17,placevendome23@hotmail.com,#ONS2-1122,order,Steven Davis,0,88,0,0,1
+R01,35117,11/15/17,,#ONS2-1119,order,Steven Davis,0,98,0,0,1
+R01,35881,11/15/17,,#ONS2-1120,order,Steven Davis,-38.4,89.6,0,7.95,1
+R01,34338,11/15/17,jcano@onsclothing.com,#ONS2-1121,order,Steven Davis,-96.2,51.8,0,4.6,1
+R01,34972,11/15/17,,#ONS2-1118,order,Steven Davis,0,198,0,17.57,1
+R01,32561,11/15/17,kmark@ivey.ca,#ONS2-1117,order,Steven Davis,0,58,0,0,1
+R01,35103,11/15/17,kmark@ivey.ca,#ONS2-1117,order,Steven Davis,0,98,0,0,1
+R01,35711,11/16/17,estelz2116@yahoo.com,#ONS2-1125,order,Prince Adams,-19.2,108.8,0,9.65,1
+R01,35630,11/16/17,us2016120106661@onsclothing.com,#ONS2-1123,order,Steven Davis,0,98,0,0,1
+R01,35858,11/16/17,,#ONS2-1127,order,Jonathan Wong,-6,34,0,0,1
+R01,35512,11/16/17,us2016120106661@onsclothing.com,#ONS2-1123,order,Steven Davis,0,128,0,0,1
+R01,35520,11/16/17,us2016120106661@onsclothing.com,#ONS2-1123,order,Steven Davis,0,148,0,0,1
+R01,35226,11/16/17,us2016120106661@onsclothing.com,#ONS2-1123,order,Steven Davis,0,138,0,0,1
+R01,35565,11/16/17,estelz2116@yahoo.com,#ONS2-1125,order,Prince Adams,-19.2,108.8,0,9.65,1
+R01,35232,11/16/17,estelz2116@yahoo.com,#ONS2-1125,order,Prince Adams,-20.7,117.3,0,10.43,1
+R01,35138,11/16/17,us20161201014043@onsclothing.com,#ONS2-1126,order,Steven Davis,-14.7,83.3,0,0,1
+R01,0,11/16/17,us20161201014043@onsclothing.com,#ONS2-1126,order,Steven Davis,-6,34,0,3.02,1
+R01,35087,11/16/17,us2016120106661@onsclothing.com,#ONS2-1123,order,Steven Davis,0,98,0,0,1
+R01,35364,11/17/17,,#ONS2-1131,order,Steven Davis,0,238,0,21.12,1
+R01,35847,11/17/17,jcano@onsclothing.com,#ONS2-1132,order,Steven Davis,-30,30,0,0,1
+R01,35849,11/17/17,jcano@onsclothing.com,#ONS2-1132,order,Steven Davis,-30,30,0,0,1
+E01,0,11/17/17,fboisserie@me.com,#ONS2826,order,,0,0,6.41,0,0
+E01,34021,11/17/17,fboisserie@me.com,#ONS2826,order,,0,64,0,0,1
+R01,35224,11/17/17,rtw.oto@gmail.com,#ONS2-1130,order,Jackson Dillon,-20.7,117.3,0,10.41,1
+R01,35691,11/17/17,jamesmacwilliamson@gmail.com,#ONS2-1129,order,Jackson Dillon,0,88,0,0,1
+R01,35099,11/17/17,,#ONS2-1128,order,Steven Davis,0,98,0,0,1
+R01,35530,11/17/17,,#ONS2-1131,order,Steven Davis,0,128,0,11.36,1
+R01,35585,11/18/17,2martinmurray@gmail.com,#ONS2-1139,order,Jackson Dillon,0,58,0,0,1
+R01,35787,11/18/17,,#ONS2-1145,order,Joel Cano,0,90,0,0,1
+R01,34969,11/18/17,,#ONS2-1155,order,Joel Cano,0,198,0,17.57,1
+R01,35343,11/18/17,,#ONS2-1144,order,Destinie Bello,0,328,0,29.11,1
+R01,35953,11/18/17,,#ONS2-1155,order,Joel Cano,0,50,0,0,1
+R01,35711,11/18/17,,#ONS2-1143,return,Jackson Dillon,0,-128,0,-11.36,-1
+R01,36094,11/18/17,o.lazraq@hotmail.fr,#ONS2-1151,order,Jackson Dillon,0,14,0,0,1
+R01,36094,11/18/17,,#ONS2-1143,order,Jackson Dillon,0,14,0,0,1
+R01,35152,11/18/17,,#ONS2-1155,order,Joel Cano,0,98,0,0,1
+R01,35516,11/18/17,,#ONS2-1140,order,Jackson Dillon,0,148,0,13.14,1
+R01,35300,11/18/17,michealbhurley9356@gmail.com,#ONS2-1137,order,Jackson Dillon,-55.2,312.8,0,27.76,1
+R01,35711,11/18/17,,#ONS2-1143,order,Jackson Dillon,0,128,0,11.36,1
+R01,35530,11/18/17,kote.gunia@yahoo.com,#ONS2-1141,order,Jonathan Wong,-19.2,108.8,0,9.66,1
+R01,35712,11/18/17,,#ONS2-1143,order,Jackson Dillon,0,128,0,11.36,1
+R01,35885,11/18/17,us2016120102076@onsclothing.com,#ONS2-1149,order,Joel Cano,-19.2,108.8,0,9.65,1
+R01,35974,11/18/17,o.lazraq@hotmail.fr,#ONS2-1150,order,Jackson Dillon,0,14,0,0,1
+R01,35447,11/18/17,us2016120102076@onsclothing.com,#ONS2-1149,order,Joel Cano,-65.7,372.3,0,33.06,1
+R01,35711,11/18/17,,#ONS2-1148,order,Jonathan Wong,0,128,0,11.36,1
+R01,35947,11/18/17,wright.john.jay@gmail.com,#ONS2-1146,order,Jackson Dillon,0,128,0,11.36,1
+R01,35679,11/18/17,,#ONS2-1155,order,Joel Cano,0,98,0,0,1
+R01,35975,11/18/17,o.lazraq@hotmail.fr,#ONS2-1150,order,Jackson Dillon,0,14,0,0,1
+R01,35715,11/18/17,,#ONS2-1153,order,Joel Cano,0,128,0,11.36,1
+R01,35083,11/18/17,us2016120102076@onsclothing.com,#ONS2-1149,order,Joel Cano,-14.7,83.3,0,0,1
+R01,35564,11/18/17,,#ONS2-1152,order,Joel Cano,0,128,0,11.36,1
+R01,35560,11/18/17,,#ONS2-1138,order,Jackson Dillon,0,128,0,11.36,1
+R01,35566,11/18/17,,#ONS2-1142,order,Jackson Dillon,0,128,0,11.36,1
+R01,0,11/18/17,,#ONS2-1155,order,Joel Cano,0,14,0,1.25,1
+R01,0,11/18/17,,#ONS2-1135,order,Jonathan Wong,0,0.5,0,0.04,1
+R01,33821,11/18/17,kote.gunia@yahoo.com,#ONS2-1141,order,Jonathan Wong,-6.75,38.25,0,0,1
+R01,35029,11/18/17,us2016120102076@onsclothing.com,#ONS2-1149,order,Joel Cano,-35.7,202.3,0,17.95,1
+R01,35135,11/18/17,,#ONS2-1155,order,Joel Cano,0,98,0,0,1
+R01,35976,11/18/17,o.lazraq@hotmail.fr,#ONS2-1150,order,Jackson Dillon,0,14,0,0,1
+R01,35970,11/18/17,kote.gunia@yahoo.com,#ONS2-1141,order,Jonathan Wong,-2.1,11.9,0,0,1
+R01,0,11/18/17,,#ONS2-1135,return,Jonathan Wong,0,-0.5,0,-0.04,-1
+R01,35489,11/18/17,lucas.sanders@indyfilmfest.com,#ONS2-1147,order,Jackson Dillon,-19.2,108.8,0,9.66,1
+R01,35562,11/18/17,kote.gunia@yahoo.com,#ONS2-1141,order,Jonathan Wong,-19.2,108.8,0,9.65,1
+R01,36096,11/18/17,kote.gunia@yahoo.com,#ONS2-1141,order,Jonathan Wong,-2.1,11.9,0,1.06,1
+R01,35524,11/18/17,,#ONS2-1155,order,Joel Cano,0,128,0,11.36,1
+R01,35193,11/18/17,lucas.sanders@indyfilmfest.com,#ONS2-1147,order,Jackson Dillon,-19.2,108.8,0,9.65,1
