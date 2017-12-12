@@ -19,7 +19,7 @@ By: Anthony Chung, Moses Pallapati, Hannah Sawyer
 The datasource we are using is from the clothing company ONS. We are using a limited amount of the data to do some simple analysis that can provice us with a snapshot on how the company is doing between September 2017 - December 2017
 <u>DataFiles :<u/>
 
-1) Calendat2017.csv
+1) Calendar2017.csv
 
 2) Contacts.csv
 
@@ -67,6 +67,8 @@ Using sqlite to create a small compress database as a flat file that can be shar
 Converting files from excel to csv to sql_table
 
 be able to run sql anywhere even without a sql extension software like my sql workbench
+
+Need to correctly name each column in the table on both excel and the sql Create Table command 
 
 
 
