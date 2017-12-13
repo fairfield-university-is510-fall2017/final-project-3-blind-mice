@@ -50,7 +50,7 @@ Link:[https://github.com/fairfield-university-is510-fall2017/final-project-3-bli
 
 ## Adding in more data
 
-Link:[https://github.com/fairfield-university-is510-fall2017/final-project-3-blind-mice/blob/master/NewSales.csv]
+Link:[https://github.com/fairfield-university-is510-fall2017/final-project-3-blind-mice/blob/master/Adding%20New%20Data.ipynb]
 
 ## Lesson Learned/ Challenges
 
